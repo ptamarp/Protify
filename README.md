@@ -147,6 +147,14 @@ Protify is currently in beta. We're actively working to enhance features and doc
   | shs27-ppi | SHS27k dataset containing 27,000 protein-protein interactions. | MCC | PPI prediction type | No | Yes |
   | shs148-ppi | SHS148k dataset containing 148,000 protein-protein interactions. | MCC | PPI prediction type | No | Yes |
   | PPA-ppi | Protein-Protein Affinity dataset for quantitative binding predictions. | R | Protein-protein affinity prediction | No | Yes |
+  | Taxonomy-domain | Dataset for predicting domain taxonomy. | MCC | Protein property prediction | No | No |
+  | Taxonomy-kingdom | Dataset for predicting kingdom taxonomy. | MCC | Protein property prediction | No | No |
+  | Taxonomy-phylum | Dataset for predicting phylum taxonomy. | MCC | Protein property prediction | No | No |
+  | Taxonomy-class | Dataset for predicting class taxonomy. | MCC | Protein property prediction | No | No |
+  | Taxonomy-order | Dataset for predicting order taxonomy. | MCC | Protein property prediction | No | No |
+  | Taxonomy-family | Dataset for predicting family taxonomy. | MCC | Protein property prediction | No | No |
+  | Taxonomy-genus | Dataset for predicting genus taxonomy. | MCC | Protein property prediction | No | No |
+  | Taxonomy-species | Dataset for predicting species taxonomy. | MCC | Protein property prediction | No | No |
 </details>
 
 For more details about supported models and datasets, including programmatic access and command-line utilities, see the [Resource Listing Documentation](docs/resource_listing.md).
